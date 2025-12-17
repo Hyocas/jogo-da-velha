@@ -3,6 +3,23 @@
 ![Minimax](https://img.shields.io/badge/Minimax-gray)
 ![Status](https://img.shields.io/badge/Educational-success)
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="./img/menu.png" alt="Menu" width="300"/>
+        <br>
+        <sub><b>Menu Inicial</b></sub>
+      </td>
+      <td align="center">
+        <img src="./img/game.png" alt="Jogo" width="300"/>
+        <br>
+        <sub><b>Partida em Andamento</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
 > Este projeto foi desenvolvido para a disciplina de **Inteligência Artificial**. Trata-se de uma implementação do clássico Jogo da Velha (Tic-Tac-Toe) com interface gráfica, focado na comparação entre dois tipos de agentes inteligentes: um baseado em busca exaustiva (Minimax) e outro em regras predefinidas (Heurística).
 
 ## Sobre o Projeto
