@@ -57,7 +57,7 @@ Siga as instruções abaixo para executar o projeto em seu ambiente local:
 1. **Clone o repositório:**
 
    ```
-   git clone https://github.com/Hyocas/jogo-da-velha.git
+   git clone https://github.com/oleandrobalbino/jogo-da-velha.git
    ```
 
 2. **Navegue até o diretório do projeto:**
